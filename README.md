@@ -5,7 +5,7 @@
 
 - I am currently working at [Kenlo company](https://www.kenlo.com.br/#)
 
-- 🌱 I’m currently learning **GraphQL, NextJs and other's**
+- 🌱 I’m currently learning **C#, NextJs and other's**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
